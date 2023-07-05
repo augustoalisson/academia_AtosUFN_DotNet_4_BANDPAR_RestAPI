@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SgDVkwqbb9vWmi60HHvfN9ym9x5H71C//xIhXp6Y/38=",
+  "Source": "BANDPAR_RestAPI",
+  "BasePath": "_content/BANDPAR_RestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

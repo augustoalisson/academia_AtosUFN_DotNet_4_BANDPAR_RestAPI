@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BANDPAR_RestAPI.props" />
+</Project>
